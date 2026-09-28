@@ -23,7 +23,7 @@ I am a PhD candidate at the Institute of Transport and Logistics Studies, specia
 - [Mode choice analysis of shared autonomous vehicles as first-mile service in Bangkok, Thailand](https://doi.org/10.1680/jtran.23.00052)  
     *Proceedings of the Institution of Civil Engineers - Transport*, 2023
 
-### Presentations
+## Presentations
 
 - [An investigation into how autonomous vehicles change travel and activity behaviors among transport disadvantaged people](./presentations/An%20investigation%20into%20how%20autonomous%20vehicles%20change%20travel%20and%20activity%20behaviors%20among%20transport%20disadvantaged%20people.pptx)
 
@@ -31,7 +31,7 @@ I am a PhD candidate at the Institute of Transport and Logistics Studies, specia
 
 - [Perceptions of autonomous vehicle among older adults and people with physical disability](./presentations/Perceptions%20of%20autonomous%20vehicle%20among%20older%20adults%20and%20people%20with%20physical%20disability.pptx)
 
-### Posters
+## Posters
 
 - [An Investigation into how autonomous vehicles change travel and activity behavior among transport disadvantaged persons](./posters/An%20Investigation%20into%20how%20autonomous%20vehicles%20change%20travel%20and%20activity%20behavior%20among%20transport%20disadvantaged%20persons.pdf)
 
