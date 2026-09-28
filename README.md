@@ -25,6 +25,14 @@ I am a PhD candidate at the Institute of Transport and Logistics Studies, specia
 
 ### Presentations
 
+- [An investigation into how autonomous vehicles change travel and activity behaviors among transport disadvantaged people](./presentations/An%20investigation%20into%20how%20autonomous%20vehicles%20change%20travel%20and%20activity%20behaviors%20among%20transport%20disadvantaged%20people.pptx)
+
+- [Implications of autonomous vehicles for accessibility and transport-related social exclusion](./presentations/Implications%20of%20autonomous%20vehicles%20for%20accessibility%20and%20transport-related%20social%20exclusion.pptx)
+
+- [Perceptions of autonomous vehicle among older adults and people with physical disability](./presentations/Perceptions%20of%20autonomous%20vehicle%20among%20older%20adults%20and%20people%20with%20physical%20disability.pptx)
 
 ### Posters
 
+- [An Investigation into how autonomous vehicles change travel and activity behavior among transport disadvantaged persons](./posters/An%20Investigation%20into%20how%20autonomous%20vehicles%20change%20travel%20and%20activity%20behavior%20among%20transport%20disadvantaged%20persons.pdf)
+
+- [Implication of autonomous vehicle operational models on accessibility and transport related social exclusion](./posters/Implication%20of%20autonomous%20vehicle%20operational%20models%20on%20accessibility%20and%20transport%20related%20social%20exclusion.pdf)
