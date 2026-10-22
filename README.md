@@ -14,6 +14,8 @@ I am a PhD candidate at the Institute of Transport and Logistics Studies, specia
 
 ## Publications
 
+- [Identification of priority areas for inclusive automated vehicle infrastructure investment](https://doi.org/10.1016/j.trd.2026.105669)  
+    *Transportation Research Part D: Transport and Environment*, 2027
 - [Perceptions of autonomous vehicles among older adults and people with physical disability](https://doi.org/10.1016/j.urbmob.2025.100165)  
     *Journal of Urban Mobility*, 2025
 - [Shared autonomous vehicle](https://doi.org/10.4337/9781035330522-00185)  
